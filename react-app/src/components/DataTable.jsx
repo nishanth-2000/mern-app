@@ -1,9 +1,8 @@
 import React from 'react';
 
 const DataTable = ({ data }) => {
-  console.log({data})
   return (
-    <table className="table">
+    <table className="table data-table">
       <thead>
         <tr>
           <th>SLNO</th>
