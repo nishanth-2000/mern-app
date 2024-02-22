@@ -3,7 +3,7 @@ import React from 'react';
 const DataTable = ({ data }) => {
   return (
     <table className="table data-table">
-      <thead>
+      <thead className='table-head'>
         <tr>
           <th>SLNO</th>
           <th>Title</th>

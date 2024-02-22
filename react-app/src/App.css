@@ -46,6 +46,10 @@
   width: 100%;
 }
 
+.table-head {
+  color: black;
+}
+
 .data-table th, .data-table td {
   border: 1px solid #ddd;
   padding: 8px;
